@@ -1,6 +1,6 @@
 # Zindi Financial Inclusion Project
 
-This is my beginner machine learning project for the **Financial Inclusion in Africa** competition on Zindi.
+This is my machine learning project for the **Financial Inclusion in Africa** competition on Zindi.
 
 Goal: Predict whether a person has a bank account (Yes/No) using demographic and survey data from Kenya, Rwanda, Tanzania, and Uganda.
 
@@ -20,7 +20,7 @@ Goal: Predict whether a person has a bank account (Yes/No) using demographic and
 3. Run all cells step by step
 
 ## My GitHub journey
-Started learning Git in Colab on Jan 31, 2026 — first commit with V6 model.
+first commit with V6 model.
 
-Made by: Rodgers Okwemba (@rodgers_9925)  
+Made by: Rodgers Okwemba   
 Date started: January 2026
